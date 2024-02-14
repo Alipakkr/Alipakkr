@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alipakkr&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 📫 How to reach me *alipakkr24@gmail.com*
-- My Portfolio *https://portfolioalipa.netlify.app/*
+- My Portfolio *https://alipakkr.github.io/*
 
 - ⚡ Fun fact *"Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"*
 
